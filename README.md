@@ -44,7 +44,7 @@ Como é um projeto Java de console, não há um link de deploy. Para executá-lo
 
 - **Java 17+**
 - **Programação Orientada a Objetos (POO)**
-- **IntelliJ IDEA** (ou outra IDE Java)
+- **IntelliJ IDEA** 
 
 ---
 
